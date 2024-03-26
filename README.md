@@ -12,8 +12,8 @@ Text summarization is the process of generating a concise and accurate summary o
 - **Increased Processing Capacity**: Commercial abstract services can process a larger volume of text documents using automatic or semi-automatic summarization systems.
 
 ## Types of Summarization
-![image](https://github.com/BhorSant/Text-Summarizer-Project/assets/91824340/7a7a395a-b484-4c3e-ab77-c53b176a9b83)
 
+![image](https://github.com/BhorSant/Text-Summarizer-Project/assets/91824340/7a7a395a-b484-4c3e-ab77-c53b176a9b83)
 
 ### Based on Input Type:
 
@@ -39,3 +39,13 @@ Text summarization is the process of generating a concise and accurate summary o
 4. **Word-Frequency Table**: Create a table of word frequencies to identify important words or phrases.
 5. **Summarization**: Use appropriate algorithms or models to generate the summary.
 
+## WorkFlows of the Project
+
+1. Update config.yaml
+2. update params.yaml
+3. update entity
+4. update the configuration manager in src config
+5. update the components
+6. update the pipeline
+7. update the main.py
+8. update the app.py
